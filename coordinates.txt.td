@@ -1,0 +1,7 @@
+-4.626597	1.0	-8.828913	24	Left Cerebrum	Sub-lobar	Extra-Nuclear	White Matter	*
+-4.626597	1.0	-8.828913	3	Left Cerebrum	Limbic Lobe	Extra-Nuclear	White Matter	*
+-5.322271	1.0	-7.8687286	24	Left Cerebrum	Sub-lobar	Extra-Nuclear	White Matter	*
+-5.322271	1.0	-7.8687286	3	Left Cerebrum	Limbic Lobe	Extra-Nuclear	White Matter	*
+-5.841974	1.0	-6.978894	27	Left Cerebrum	Sub-lobar	Extra-Nuclear	White Matter	*
+-6.520313	1.0	-5.981074	27	Left Cerebrum	Sub-lobar	Extra-Nuclear	White Matter	*
+-6.7938204	1.0	-4.9459596	27	Left Cerebrum	Sub-lobar	Extra-Nuclear	White Matter	*
