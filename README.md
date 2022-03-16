@@ -1,6 +1,6 @@
 ### MNI_TO_BRODMANN
 
-Simple script to otain brain areas of different hierachies from
+Simple script to obtain brain areas of different hierachies from
  either normalized MNI coordinates or talairach coordinates. 
  Works by first converting MNI to talairach coordinates and then using the talairach client 
  (as found under talairach.org/client) to obtain brain areas.
